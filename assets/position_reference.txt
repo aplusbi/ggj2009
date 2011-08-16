@@ -1,0 +1,30 @@
+----ROOM 1----
+
+pills_on_light  338
+pills_on_dark  338
+
+lamp_on  230
+
+lamp_unplug_light  230  (should also trigger lamp_on)
+lamp_unplug_dark  230  (should also trigger lamp_on)
+
+clock_on 43
+
+
+
+----ROOM 2----
+
+tv_on_light  366
+tv_on_dark  366
+
+phonographplug_on_light  263
+phonographplug_on_dark  263
+
+drink_on_light  155
+drink_on_dark  155
+
+toaster_on  64
+
+toasterplug_on  64
+
+sink_on  0

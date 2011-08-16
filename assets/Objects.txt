@@ -1,0 +1,28 @@
+490 524 Lamp a
+#
+732 744 Pills a
+#
+918 926 LightSwitch1 a
+#
+470 484 Outlet1 a
+#
+134 176 Clock a
+#
+944 960 Outlet2 b
+#
+570 586 Outlet3 b
+#
+364 380 Drink b
+#
+296 310 Tomato b
+#
+184 222 Toaster b
+#
+138 154 Outlet4 b
+#
+82 94 Sink b
+#
+0 20 Hallway1 a
+#
+1004 1023 Hallway2 b
+#eof
